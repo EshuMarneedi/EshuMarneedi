@@ -6,5 +6,5 @@ I'm focused on SwiftUI and Swift development since it's the next generation of A
 
 ## Links
 
-Citations (Testflight, iOS, iPadOS, macOS 16/13: https://testflight.apple.com/join/ZJVAUAkR
-Hacking With Swift (where I learned Swift and SwiftUI): https://hackingwithswift.com
+* Citations (Testflight, iOS, iPadOS, macOS 16/13: https://testflight.apple.com/join/ZJVAUAkR
+* Hacking With Swift (where I learned Swift and SwiftUI): https://hackingwithswift.com
